@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="Flowt">
+
+
+        <attr name="maxLines" format="integer"/>
+        <attr name="itemhorltslmagin" format="dimension"/>
+        <attr name="itemverticalmargin" format="dimension"/>
+        <attr name="textmaxlins" format="integer"/>
+        <attr name="bordercolor" format="color"/>
+        <attr name="borderrsdio" format="dimension"/>
+        <!--        <attr name="textMa"-->
+        <!--        <attr name=""-->
+        <attr name="lines" format="integer"/>
+        <attr name="textColor" format="color"/>
+
+    </declare-styleable>
+
+
+</resources>
